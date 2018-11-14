@@ -50,7 +50,7 @@
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <div class="ui teal  menu">
     <div class="header item">
-       CRUD PHP HEROKU POSTGRESQL
+       CRUD PHP HEROKU POSTGRESQL ING. IBO LUIS CERRA ESCOBAR 
     </div>
     <a class="item active " href="index.php">
         EMPLOYEES
