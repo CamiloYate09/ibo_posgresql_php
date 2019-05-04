@@ -33,7 +33,7 @@
 <html lang="es">
 
 <head>
-    <title> MI primer CRUD</title>
+    <title>Panamericana</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/estilos.css">
     <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
@@ -50,13 +50,13 @@
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <div class="ui teal  menu">
     <div class="header item">
-       CRUD PHP HEROKU POSTGRESQL ING. IBO LUIS CERRA ESCOBAR 
+        Panamericana
     </div>
     <a class="item active " href="index.php">
-        EMPLOYEES
+        Primera Consulta
     </a>
     <a class="item" href="DEPARTMENTS.php">
-        DEPARTMENTS
+        Segunda Consulta
     </a>
     <a class="item" href="JOBS.php">
         JOBS

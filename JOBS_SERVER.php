@@ -28,6 +28,13 @@ $edit_state = false;
 
 //conectar con la base de datos
 
+$servername = "localhost";
+$username = "username";
+$password = "password";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password);
+
 $db = pg_connect("host=ec2-54-227-237-27.compute-1.amazonaws.com port=5432 dbname=desu9g234vo74 user=rvjttoxqgqdeek password=991a828e0f9c4b15953f2155174f0b0dbf2f2e76f8c75df7f47835b271194074");
 
 // si se presiona el boton save de el formulario
